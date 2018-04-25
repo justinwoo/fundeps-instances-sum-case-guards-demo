@@ -1,0 +1,14 @@
+{
+  "name": "fundeps-instances-sum-case-guards-demo",
+  "set": "tangsuyuk",
+  "source": "https://github.com/justinwoo/package-sets.git",
+  "depends": [
+    "record",
+    "lists",
+    "typelevel-prelude",
+    "psci-support",
+    "console",
+    "eff",
+    "prelude"
+  ]
+}
