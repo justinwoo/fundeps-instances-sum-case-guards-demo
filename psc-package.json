@@ -3,6 +3,7 @@
   "set": "tangsuyuk",
   "source": "https://github.com/justinwoo/package-sets.git",
   "depends": [
+    "maps",
     "record",
     "lists",
     "typelevel-prelude",
